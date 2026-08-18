@@ -8,9 +8,9 @@ Using [platformIO](https://docs.platformio.org/en/latest/boards/atmelsam/seeed_x
 
 pin out diagrams
 
-![front](XIAO_nRF5280_front_pinout.png)
+![front](XIAO_nRF52840_front_pinout.png)
 
-![back](XIAO_nRF5280_back_pinout.png)
+![back](XIAO_nRF52840_back_pinout.png)
 
 --- 
 
