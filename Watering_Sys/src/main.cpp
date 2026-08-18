@@ -7,7 +7,7 @@
 //will make more counters when there are several motors and/or priority system
 int water_count = 0;
 
-//tmr
+//tmr for watering
 int count = 0;
 
 //relay normally open,so when closed not enough moisture
